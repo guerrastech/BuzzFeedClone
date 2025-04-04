@@ -86,7 +86,7 @@ buzzfeedclone/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/mauriciogonrails/BuzzFeedClone.git
+   git clone https://github.com/guerrastech/BuzzFeedClone.git
    cd BuzzFeedClone
    ```
 
