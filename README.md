@@ -161,12 +161,6 @@ Contribuições são bem-vindas! Para contribuir:
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
-## 📞 Contato
-
-Para dúvidas ou sugestões:
-- GitHub: [mauriciogonrails](https://github.com/mauriciogonrails)
-
----
 
 ⭐ Não se esqueça de dar uma estrela se você gostou deste projeto! ⭐
 
